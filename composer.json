@@ -1,5 +1,5 @@
 {
-    "name": "inextensodigital/password-strength-validator",
+    "name": "fulll/password-strength-validator",
     "description": "Password-strength validator for Symfony",
     "keywords": ["password", "validator", "symfony"],
     "type": "library",
